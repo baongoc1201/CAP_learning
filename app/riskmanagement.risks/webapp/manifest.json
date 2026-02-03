@@ -7,7 +7,7 @@
     "applicationVersion": {
       "version": "0.0.1"
     },
-    "title": "Risk Management hello new version",
+    "title": "Risk Management version",
     "description": "{{appDescription}}",
     "resources": "resources.json",
     "sourceTemplate": {
