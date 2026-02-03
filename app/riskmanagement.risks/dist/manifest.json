@@ -12,7 +12,7 @@
 		"applicationVersion": {
 			"version": "0.0.1"
 		},
-		"title": "{{appTitle}}",
+		"title": "Risk Management new version",
 		"description": "{{appDescription}}",
 		"resources": "resources.json",
 		"sourceTemplate": {
@@ -22,7 +22,7 @@
 		},
 		"dataSources": {
 			"mainService": {
-				"uri": "/odata/v4/RiskManagementService/",
+				"uri": "odata/v4/RiskManagementService/",
 				"type": "OData",
 				"settings": {
 					"annotations": [],
